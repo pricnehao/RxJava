@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E1F23</color>
+    <color name="colorPrimaryDark">#1E1F23</color>
+    <color name="colorAccent">#428AF9</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="titleColor">#333333</color>
+    <color name="homered">#FF1844</color>
+    <color name="subtitleColor">#999999</color>
+    <color name="barBlack">#1E1F23</color>
+    <color name="message_red_bg">#d43e37</color>
+    <color name="warmGrey">#9B9B9B</color>
+    <color name="black">#000000</color>
+    <color name="post_red">#ff1844</color>
+    <color name="greyishBrown">#4A4A4A</color>
+    <color name="whiteThree">#DEDEDE</color>
+    <color name="gold_color">#F9C00C</color>
+    <color name="pageBgColor">#F2F2F2</color>
+    <color name="no_line_color">#ECECEC</color>
+    <color name="untitleColor">#666666</color>
+    <color name="list_text_color">#979797</color>
+    <color name="Rectangle3">#EEEEEE</color>
+    <color name="hot_corner_color">#D4D4D4</color>
+    <color name="commentColor">#535353</color>
+    <!--全透明-->
+    <color name="transparent">#00000000</color>
+    <!--90%不透明-->
+    <color name="transparent_90">#E6000000</color>
+    <!--80%不透明-->
+    <color name="transparent_80">#CC000000</color>
+    <!--70%不透明-->
+    <color name="transparent_70">#B3000000</color>
+    <!--40%不透明-->
+    <color name="transparent_60">#99000000</color>
+    <!--40%不透明-->
+    <color name="transparent_50">#80000000</color>
+    <!--40%不透明-->
+    <color name="transparent_40">#66000000</color>
+    <!--20%不透明-->
+    <color name="transparent_20">#33000000</color>
+
+    <color name="perferc_sub">#E2E2E2</color>
+
+    <color name="brownishGrey">#666666</color>
+    <color name="whiteSeven">#F9F9F9</color>
+    <color name="whiteSix">#EBEBEB</color>
+
+    <color name="alipay_color">#1CACEB</color>
+    <color name="weixin_pay_color">#7ED321</color>
+
+    <color name="blackTwo">#2D2D2D</color>
+    <color name="skyBlue">#59ABF9</color>
+    <color name="blushPink">#FD8593</color>
+    <color name="transparentwhite_80">#ccffffff</color>
+</resources>

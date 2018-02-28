@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.postapp.rxjava.MyProgressLayout
+        android:id="@+id/progressLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/loding"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blushPink"
+             android:gravity="center"
+            android:textSize="@dimen/sp_18"
+            android:layout_marginTop="1dp"
+            android:text="加载中" />
+
+        <TextView
+            android:id="@+id/loding_erro_ret"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blushPink"
+            android:gravity="center"
+            android:textSize="@dimen/sp_18"
+            android:layout_marginTop="1dp"
+            android:text="加载错误" />
+
+        <TextView
+            android:id="@+id/loding_ret"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blushPink"
+            android:textSize="@dimen/sp_18"
+            android:gravity="center"
+            android:layout_marginTop="1dp"
+            android:text="加载成功" />
+    </LinearLayout>
+</FrameLayout>
